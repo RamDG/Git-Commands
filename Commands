@@ -9,6 +9,9 @@ Global Settings
 - Interactive Beginners Tutorial: http://try.github.io/
 - Git Cheatsheet by GitHub: https://services.github.com/on-demand/downloads/github-git-cheat-sheet/
 
+key setup link
+----
+git remote set-url origin https://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@github.com/airodynsystems/Px4-Autopilot.git
 
 Reminder
 -----------
